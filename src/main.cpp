@@ -1,6 +1,6 @@
 #include<iostream>
 
 int main(int argc, const char** aegv){
-    std::cout<<"Hello world!"<<std::endl;
+    std::cout<<"Hello computer!"<<std::endl;
     return 0;
 }
